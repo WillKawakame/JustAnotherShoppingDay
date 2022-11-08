@@ -1,0 +1,2 @@
+# JustAnotherShoppingDay
+ Your mission is to buy specific clothes that are informed at the beginning of each round.  Without enough money to buy them, your duty is to look for ways to pay less (Hidden discounts, make friends with the seller, getting your clothes in unconventional ways, etc...). You have a time limit to get these discounts and equip the clothes, which makes everything more interesting.
