@@ -13,6 +13,11 @@ MonoBehaviour:
   m_Name: Pants_0
   m_EditorClassIdentifier: 
   ItemName: 
-  ItemID: 
+  ItemID: 0
+  Price: 100
   Icon: {fileID: 0}
-  Animations: []
+  Animations:
+  - {fileID: 7400000, guid: 6fa58708c95f2554581d5d883521316b, type: 2}
+  - {fileID: 7400000, guid: 5278d503bf6f27e4bb8a709c08296124, type: 2}
+  - {fileID: 7400000, guid: 4184627aeff6c9643af1e802fa62e81f, type: 2}
+  - {fileID: 7400000, guid: f261c90d0f5e7ac43b70c90274ba0fb7, type: 2}

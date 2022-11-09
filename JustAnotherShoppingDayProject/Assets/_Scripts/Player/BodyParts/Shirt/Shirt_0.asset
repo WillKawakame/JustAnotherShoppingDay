@@ -17,3 +17,6 @@ MonoBehaviour:
   Icon: {fileID: 0}
   Animations:
   - {fileID: 7400000, guid: d48065d0cdae46043821a897878b6e09, type: 2}
+  - {fileID: 7400000, guid: 6c86f1e7e8a20d145b97b42f18b620e8, type: 2}
+  - {fileID: 7400000, guid: 99985cd5bfb501a40a9b8b7a07497db8, type: 2}
+  - {fileID: 7400000, guid: a22e1e393dad4f74ba6f103703e79ee7, type: 2}

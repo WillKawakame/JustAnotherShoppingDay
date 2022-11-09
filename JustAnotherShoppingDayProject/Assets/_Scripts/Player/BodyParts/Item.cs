@@ -4,6 +4,7 @@ using UnityEngine;
 public class Item : ScriptableObject {
     public string ItemName;
     public int ItemID;
+    public int Price;
     public Sprite Icon;
     public AnimationClip[] Animations;
 }

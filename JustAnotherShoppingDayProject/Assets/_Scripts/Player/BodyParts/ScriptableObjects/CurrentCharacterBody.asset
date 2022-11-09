@@ -12,4 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e269597f85c9843b0b5c645b234a82, type: 3}
   m_Name: CurrentCharacterBody
   m_EditorClassIdentifier: 
-  BodyParts: []
+  BodyParts:
+  - BodyPartName: Body
+    BodyPartItem: {fileID: 11400000, guid: a00442517210ef74b852ab7421345aa7, type: 2}
+  - BodyPartName: Head
+    BodyPartItem: {fileID: 11400000, guid: 70f77890cb416d54281f2a543614d564, type: 2}
+  - BodyPartName: Shirt
+    BodyPartItem: {fileID: 11400000, guid: 08c22e0efe0cb9a42b12501fc54b161c, type: 2}
+  - BodyPartName: Pants
+    BodyPartItem: {fileID: 11400000, guid: ded863d6a5a7aaf4483eeeb344730a88, type: 2}

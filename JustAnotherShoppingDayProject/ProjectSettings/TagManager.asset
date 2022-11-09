@@ -11,9 +11,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Prop
+  - Npc
+  - FittingRoom
   - 
   - 
   - 
@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
+  - name: BackGround
     uniqueID: 2488597383
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1497383613
     locked: 0

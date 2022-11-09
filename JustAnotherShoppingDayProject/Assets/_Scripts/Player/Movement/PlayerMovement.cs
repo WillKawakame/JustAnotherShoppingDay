@@ -26,8 +26,18 @@ public class PlayerMovement : MonoBehaviour{
     private void Move(){
         player.Rb.velocity = new Vector2(player.PlayerInput.MoveDirection.x * moveSpeed, player.PlayerInput.MoveDirection.y * moveSpeed);
 
+        if(player.Rb.velocity.x <= 0f){
+            transform.localRotation = Quaternion.Euler(0, 180, 0);
+        }else{
+            transform.localRotation = Quaternion.Euler(0, 0, 0);
+        }
+
         //Set Walking Animation
-        player.Animator_.SetFloat("Horizontal", player.Rb.velocity.x);
+        if(player.PlayerInput.MoveDirection.x != 0){
+            player.Animator_.SetFloat("Horizontal", 1);
+        }else{
+            player.Animator_.SetFloat("Horizontal", 0);
+        }
         player.Animator_.SetFloat("Vertical", player.Rb.velocity.y);
         player.Animator_.SetFloat("Speed", player.Rb.velocity.sqrMagnitude);
     }

@@ -14,5 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ItemName: Glasses
   ItemID: 1
+  Price: 100
   Icon: {fileID: 0}
-  Animations: []
+  Animations:
+  - {fileID: 7400000, guid: 81ab7b01b674eab4fb92b020ac130c92, type: 2}
+  - {fileID: 7400000, guid: 729e3c7f408247d45b2e7fde78066ba3, type: 2}
+  - {fileID: 7400000, guid: 54ac77c7d4059244f947b2e5e8287cf9, type: 2}
+  - {fileID: 7400000, guid: 5db189bf3660c004d826904aba98af44, type: 2}
