@@ -7,7 +7,7 @@ public class CardGenerator : MonoBehaviour
     private void Awake() {
         //Set Random Skins
         for(int i = 0; i < Card.Skins.Length; i++){
-            Card.Skins[i] = Random.Range(0, items.itemTypes[i].items.Length);
+            Card.Skins[i] = Random.Range(1, items.itemTypes[i].items.Length);
         }
 
         //Set the total value
@@ -19,9 +19,4 @@ public class CardGenerator : MonoBehaviour
         //You start with 45% of the TotalValue 
         Card.YourMoney = Card.TotalValue * 0.45f;
     }
-
-    void Start(){
-        
-    }
-
 }

@@ -20,9 +20,7 @@ public class BodyPartsManager : MonoBehaviour{
         animator.runtimeAnimatorController = animatorOverrideController;
 
         clipOverrides = new AnimationClipOverrides(animatorOverrideController.overridesCount);
-        animatorOverrideController.GetOverrides(clipOverrides);
-
-        Invoke("OverrideAnimations", 1);   
+        animatorOverrideController.GetOverrides(clipOverrides);   
     }
 
     public void OverrideAnimations(){

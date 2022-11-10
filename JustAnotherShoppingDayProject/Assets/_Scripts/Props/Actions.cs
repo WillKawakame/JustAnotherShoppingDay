@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Actions : MonoBehaviour
@@ -11,13 +9,17 @@ public class Actions : MonoBehaviour
                 Debug.Log("Nothing here");
                 break;
             case ActionsList.GiveDiscount:
+                Card.Discounts += 1;
+                actionsList = ActionsList.None;
                 Debug.Log("You have found a random discount value");
                 break;
             case ActionsList.GiveMoney:
                 Card.YourMoney += 15;
+                actionsList = ActionsList.None;
                 Debug.Log("You have found a random amount of money");
                 break;
             case ActionsList.GiveLollipop:
+                actionsList = ActionsList.None;
                 Debug.Log("You have found a lollipop");
                 break;
         }
