@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc75ee09bdb26e34e9a02cf576e76a2a, type: 3}
+  m_Name: Head_2
+  m_EditorClassIdentifier: 
+  ItemName: OrangeLadybug
+  Price: 27
+  Icon: {fileID: 104381749, guid: 9385033d78cd29f43860af769ed07695, type: 3}
+  isAvaliable: 0
+  Animations:
+  - {fileID: 7400000, guid: 4bb34d334b6960240bf916f8adea8d21, type: 2}
+  - {fileID: 7400000, guid: 4d7f6e9de04496a45b0d7df3bf1cec0d, type: 2}
+  - {fileID: 7400000, guid: 918623c221b636d438eb729b8463efb0, type: 2}
+  - {fileID: 7400000, guid: 8d3a822cc454d0b4b843ec8853e443fe, type: 2}

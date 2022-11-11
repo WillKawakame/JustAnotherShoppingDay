@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc75ee09bdb26e34e9a02cf576e76a2a, type: 3}
+  m_Name: Outfit_10
+  m_EditorClassIdentifier: 
+  ItemName: thief's clothe
+  Price: 300
+  Icon: {fileID: 1415185719, guid: e57c49952b2bfc348b4bb24f41ee8567, type: 3}
+  isAvaliable: 0
+  Animations:
+  - {fileID: 7400000, guid: d70d97a9cea2ddd4cb79ccb293896256, type: 2}
+  - {fileID: 7400000, guid: c2ebe804f9c56804baf422dfaf90244c, type: 2}
+  - {fileID: 7400000, guid: 7cd7f6a6dc69fc848b6dfe43fc36fe73, type: 2}
+  - {fileID: 7400000, guid: 432eaa2a68f12d841a51f8f912f38ba7, type: 2}

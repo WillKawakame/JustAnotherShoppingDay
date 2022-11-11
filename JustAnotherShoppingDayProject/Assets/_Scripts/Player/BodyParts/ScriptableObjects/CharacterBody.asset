@@ -16,8 +16,8 @@ MonoBehaviour:
   - BodyPartName: Body
     BodyPartItem: {fileID: 11400000, guid: a00442517210ef74b852ab7421345aa7, type: 2}
   - BodyPartName: Head
-    BodyPartItem: {fileID: 11400000, guid: 11de58fc2449a3a408df527f6a8e4837, type: 2}
+    BodyPartItem: {fileID: 11400000, guid: 70f77890cb416d54281f2a543614d564, type: 2}
   - BodyPartName: Shirt
-    BodyPartItem: {fileID: 11400000, guid: ded863d6a5a7aaf4483eeeb344730a88, type: 2}
+    BodyPartItem: {fileID: 11400000, guid: 08c22e0efe0cb9a42b12501fc54b161c, type: 2}
   - BodyPartName: Pants
     BodyPartItem: {fileID: 11400000, guid: 08c22e0efe0cb9a42b12501fc54b161c, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc75ee09bdb26e34e9a02cf576e76a2a, type: 3}
+  m_Name: Outfit_9
+  m_EditorClassIdentifier: 
+  ItemName: GreenOverall
+  Price: 50
+  Icon: {fileID: -1492100665, guid: c6ed708d338d18f478a125f9affbc75d, type: 3}
+  isAvaliable: 0
+  Animations:
+  - {fileID: 7400000, guid: 47e7b8b20440266489a3d4dc6bd767ea, type: 2}
+  - {fileID: 7400000, guid: d056e714a78e9b54e94de24c356c6b3b, type: 2}
+  - {fileID: 7400000, guid: 4d885fe79d2c02f45ac0b11dd05f1b8d, type: 2}
+  - {fileID: 7400000, guid: 322c9854b269d3b4b89b4b17cd4d9155, type: 2}

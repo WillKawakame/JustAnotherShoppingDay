@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc75ee09bdb26e34e9a02cf576e76a2a, type: 3}
+  m_Name: Head_1
+  m_EditorClassIdentifier: 
+  ItemName: LadyBug
+  Price: 25
+  Icon: {fileID: -881384549, guid: e9f14528d4e2f3e498111e9a38545139, type: 3}
+  isAvaliable: 0
+  Animations:
+  - {fileID: 7400000, guid: 701c47aebeeb91142ac22c4e3f517dd5, type: 2}
+  - {fileID: 7400000, guid: cf1985670a9545f449763f61d1bb3ab9, type: 2}
+  - {fileID: 7400000, guid: e6fa34bfff6eb1245910351d67f32a5f, type: 2}
+  - {fileID: 7400000, guid: bac76c544e6175044888c0e0c4b83eff, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc75ee09bdb26e34e9a02cf576e76a2a, type: 3}
+  m_Name: Outfit_6
+  m_EditorClassIdentifier: 
+  ItemName: Social
+  Price: 90
+  Icon: {fileID: 1845788805, guid: 4a775b3ee2909a44e8a8dafd90f416cb, type: 3}
+  isAvaliable: 0
+  Animations:
+  - {fileID: 7400000, guid: 9f957ceefe1d6c94492accdf4fad1a5e, type: 2}
+  - {fileID: 7400000, guid: a1bfe22d62decda4486e0969025a8975, type: 2}
+  - {fileID: 7400000, guid: ce3d11a331b3f804b8a17548e53c16a0, type: 2}
+  - {fileID: 7400000, guid: be53c991f90b3dc40817e00a3ea8db05, type: 2}

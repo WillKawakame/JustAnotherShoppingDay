@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc75ee09bdb26e34e9a02cf576e76a2a, type: 3}
+  m_Name: Outfit_5
+  m_EditorClassIdentifier: 
+  ItemName: ExecutiveSuit
+  Price: 125
+  Icon: {fileID: 1567570352, guid: 285bd737809632b4b8912e8660dcd4df, type: 3}
+  isAvaliable: 0
+  Animations:
+  - {fileID: 7400000, guid: 9c1ac40efd6ce8f4ca958069f70c677b, type: 2}
+  - {fileID: 7400000, guid: 8838068c51e7c90408f8e1dedb39f4cd, type: 2}
+  - {fileID: 7400000, guid: 5f1ff3150a8a1754c9d2525b770d5fc4, type: 2}
+  - {fileID: 7400000, guid: b1cc643abb94ec943986a12564143c60, type: 2}

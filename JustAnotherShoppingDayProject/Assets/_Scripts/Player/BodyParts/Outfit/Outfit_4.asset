@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc75ee09bdb26e34e9a02cf576e76a2a, type: 3}
+  m_Name: Outfit_4
+  m_EditorClassIdentifier: 
+  ItemName: BasicSuit
+  Price: 100
+  Icon: {fileID: -494505973, guid: 7fb66105131922f45b4b9fc621b7c109, type: 3}
+  isAvaliable: 0
+  Animations:
+  - {fileID: 7400000, guid: 85e696066a677da429f549742f373059, type: 2}
+  - {fileID: 7400000, guid: 83a3c8b7d2dbe014cbed7f4661f7676b, type: 2}
+  - {fileID: 7400000, guid: 01bc8e224ce0f354d95005ab09da2696, type: 2}
+  - {fileID: 7400000, guid: c9e256ba671818b498b08e906faf0a4f, type: 2}

@@ -116,7 +116,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Body_look_0
+      name: Body_Look_0
       rect:
         serializedVersion: 2
         x: 0
@@ -130,14 +130,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f0f0d1927cfed145a7d80115a853446
-      internalID: -41114756
+      spriteID: 951d92ac7a132384d93555f5c57b5eef
+      internalID: -1148783705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_look_1
+      name: Body_Look_1
       rect:
         serializedVersion: 2
         x: 16
@@ -151,14 +151,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c90f8179be75130489c65751c1231d60
-      internalID: -660059653
+      spriteID: 739af33e308859d4596cef5711cdb471
+      internalID: 1482120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_look_2
+      name: Body_Look_2
       rect:
         serializedVersion: 2
         x: 32
@@ -172,14 +172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2710bd886b9685649861466085941cdf
-      internalID: -2001186087
+      spriteID: a7093e67a3cefcb47a6111ecd9034c6c
+      internalID: -98511714
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Body_look_3
+      name: Body_Look_3
       rect:
         serializedVersion: 2
         x: 48
@@ -193,8 +193,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d58de5da6cfdc840b77b875f67aba89
-      internalID: -1054269928
+      spriteID: 2f0e2d9d6805d7d42b3149bd9f038bc9
+      internalID: 792139247
       vertices: []
       indices: 
       edges: []
@@ -210,10 +210,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Body_look_3: -1054269928
-      Body_look_2: -2001186087
-      Body_look_1: -660059653
-      Body_look_0: -41114756
+      Body_Look_1: 1482120
+      Body_Look_3: 792139247
+      Body_Look_0: -1148783705
+      Body_Look_2: -98511714
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

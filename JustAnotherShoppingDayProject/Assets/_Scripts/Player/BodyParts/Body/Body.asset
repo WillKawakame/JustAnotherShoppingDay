@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Body
   m_EditorClassIdentifier: 
   ItemName: Default
-  ItemID: 0
-  Price: 100
+  Price: 0
   Icon: {fileID: 0}
+  isAvaliable: 0
   Animations:
   - {fileID: 7400000, guid: 30347c9cfe26306428f3b1448723b605, type: 2}
   - {fileID: 7400000, guid: 61f802bc6c106ea4cb8e7c1b39b8d077, type: 2}

@@ -1,0 +1,4026 @@
+fileFormatVersion: 2
+guid: cd4d47c665716cf46bf4434ea9be36ab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 21_Clothing_Store_0
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 892
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695e9c4cb9a1afd41a086ea4f6ba1cfc
+      internalID: 2141573519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 864
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2da60b4577c4f54791d03fa1284992b
+      internalID: 1275031764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 864
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae71f4009ab9ce944907e106b75e7d22
+      internalID: 1168015588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_179
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 880
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d99b29701a0e26479becca6ecf8d410
+      internalID: 1055793565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_191
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 864
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efa8684a5e789d4f8909a1fa05cc3e6
+      internalID: 1921489018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_206
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 848
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba24069dde005a42a3b070a94a89e28
+      internalID: -1823580164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_207
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554ed2b25456d6146858b5139cb0b46a
+      internalID: 907947731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_208
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297df3944463dfe4e866a6077041d886
+      internalID: -2045887745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_209
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fcbe1a4fac9cd4e8e7cc618887d321
+      internalID: -1934075263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_210
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6c6eb4e56a4ab47af8616bfea7883e
+      internalID: -2056548861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_211
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 851
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaec6e060af425498bdbab37bf428cd
+      internalID: 2531403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_212
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 832
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3e25e6576f0c74daa28f4efbe2db78
+      internalID: 2129727856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_214
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 832
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2e04a0c8a73fd4c8ed17b412bc26ea
+      internalID: 1421987153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_216
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 832
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbd197179bd21846b60f898808dd139
+      internalID: -907731027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_221
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 832
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e79ebba03bfdd4daf23a9cbafb334d
+      internalID: -1939018513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_222
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6326ebc0b375a1459a8321d90724e0d
+      internalID: 91147194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_223
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927102ed83a568e4e8cceb86a2083709
+      internalID: 1618224305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_224
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b3f463233d72942a1296e43fabbe17
+      internalID: 1057416713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_225
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e20e8b5221bcc540ab216d23a24cf2a
+      internalID: -529387941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_227
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75537f8c88fae1d45aa2e6dd16cfe9ee
+      internalID: 719425499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_228
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 800
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84438b95fbc02ab4fb50a9061579a4ab
+      internalID: 1954193749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_229
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acfb2e47cf4ccb4a99d007bf1d917e7
+      internalID: -1049026596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_230
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cc4d262d5a675429588b3bc0db2fb1
+      internalID: 919519876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_232
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686e2908d11f89a448d96097efc6c9d8
+      internalID: 1567463273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_233
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e00db7278fb4243a95b0320660f0f9
+      internalID: 1269211656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_234
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c170cd8cb9e7647ae0a739f7fcfc5f
+      internalID: -1764105996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_235
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefd41326a7456d4ba9c460335580bf9
+      internalID: -1996552576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_238
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3c7767fbeb896419bf1825252162d8
+      internalID: 230638265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_239
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca7af0055eff604aa5a72d214b73cf9
+      internalID: 646795710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_240
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edc6b27bb7647b438c9818adc8086bd
+      internalID: -1002035606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_241
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 819
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8876768e46e5b79459fc5946f8b8c75f
+      internalID: -1219547910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_244
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de5b3e6feefa814b8ad7d2961b93c49
+      internalID: 845791720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_245
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7bfedf3b54315438334d9c5327480a
+      internalID: 249671887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_246
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec849abf945a6c344baffcf74e6a8a2d
+      internalID: -1403621057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_247
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e88b791af6db944280638269c5bf6d2
+      internalID: -1320452772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_248
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b4365ab588ba947bc0e5b52478fe4e
+      internalID: -776665832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_249
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e963b2b7bd02163458891d52dc5d05cd
+      internalID: -1957659711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_250
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e107d6ccd182c4c957fa1316d577c6
+      internalID: 1610275655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_251
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 784
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52d507d18065cd488dfbeff62f98df3
+      internalID: -604900426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_253
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d705aa4286b0f04d9695794c01437f3
+      internalID: -1088958534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_254
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 784
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775efbb7e68d2934981348c919e74524
+      internalID: 1751265049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_256
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 784
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b348767cf60edac48b117ab9cebb8a87
+      internalID: 38074532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_261
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cd4abc26ff00a46a4889f4ad4332bc
+      internalID: -601538074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_262
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aafdcae475044345b7e6ce9264f8b3d
+      internalID: -956038502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_263
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb92a82b2c15484abd23af4418a238a
+      internalID: 1943306677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_264
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df449f13b88e1d4fa8c27c84b15c5fa
+      internalID: 2019455840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_265
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2163c6b11dfcd89478b22109ea88561d
+      internalID: 24322614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_268
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c464138003ebd64388900f0dc220bda
+      internalID: -1912928441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_276
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262a27ee3e0e83d4b867a7fdca972d7a
+      internalID: -1937428390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_277
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f60527f3ee68d41959de4003f7e59c
+      internalID: -784310411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_278
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e46f617a9492554cb354831d2c7d7cc
+      internalID: 840076955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_279
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948d1635184781b4f90e9b079a7fcdfe
+      internalID: -1339513258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_280
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62a1141ba4fdbc44973e4e082583536
+      internalID: 689982469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_281
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a629cb75808fa6479076fdc0628c127
+      internalID: -972185891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_282
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec9855ce43260f428aa27025097cad3
+      internalID: 1720681707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_284
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2af028f3b85d50429d98bc065da991a
+      internalID: 731072981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_285
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b0518ba29af424cb45669c8736156f
+      internalID: 134153152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_287
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc1aadfda34f0046abcf1e3783102c6
+      internalID: 1913775241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_289
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd63701ec17f66145b3885861cc11fdc
+      internalID: 1427277995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_290
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 768
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f0ff41b2912ea449bf789a41d8f07e
+      internalID: 877755095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_291
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 750
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb355b365c36e7642860f5fab91a6775
+      internalID: -995596201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_292
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28175a6327176314e8d84092a8dcf6e1
+      internalID: 2061144580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_293
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461a6c7b375df4740b35313589285a54
+      internalID: -364518761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_294
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de1a162beffa0b41b27fda182e4ca41
+      internalID: -937649506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_295
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cc3f1b033b6664babd188e2aff498a
+      internalID: 1020717154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_296
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d90de202b577dd43a6c32251bc7b730
+      internalID: -2070320932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_299
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b760e90acfccd8489553c25ab321353
+      internalID: 753399746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_304
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 750
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e79cd812099af7428d1b13e267709d5
+      internalID: -359799228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_306
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402c38125d2044442aac3ae76cae4579
+      internalID: -787215291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_311
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a37a10eb2212694f8da18371e9c5f13
+      internalID: -1226861097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_313
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 720
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f4a5aff80e0244a8cb07c57237c72b
+      internalID: 775698690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_315
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb43c8284f9e2574885e19f40defccdf
+      internalID: -2122072854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_316
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 729
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5611b75951a6642bdd9da4c2cdbb0c
+      internalID: -1519477820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_318
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c975feb0f8c04ff4e953cdca5666cbf4
+      internalID: -700386144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_319
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ba7d202be1fe84fb322bc33ea3857f
+      internalID: -605250321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_320
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835f4c255a78dc64cb3074a8df3d0a97
+      internalID: 1851712860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_321
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4549e82d09d15ec45a969b3b6b9f597a
+      internalID: 1146844635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_322
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d6bf08eabb81f4ba55cabdbf34d18d
+      internalID: -1580100464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_332
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf991e332e8ebe441b8067e9dd807576
+      internalID: 1882602726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_333
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2d64d9efb4dbf4399fa33ee0f129b3
+      internalID: 1681469027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_334
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d0f7832b44f39419b1373bc30f707c
+      internalID: -1911923653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_335
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4d3128c36223b42b5cd45d99b91b8c
+      internalID: 524096924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_342
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 688
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa028a640bcd02e4985dcec091ed80f5
+      internalID: 289582015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_343
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f51e7adf5cd6914dbaf683518c3c88d
+      internalID: 61824110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_344
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce44d0b6e0d670458ee92e9e3d89418
+      internalID: -1116109749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_345
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 697
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bae99ba4c704a4dbab1c293d1c4911
+      internalID: -222938761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_347
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576d6340a5cd6a748bcec2016649df08
+      internalID: -2056508211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_348
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279c9a1935b4fae46bacf29322df49da
+      internalID: 2026508533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_349
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c319c1b053220d4298c69b56836bdf7
+      internalID: 905436163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_360
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6ea8f83910a14438e5dda9c73f1311
+      internalID: -1858175740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_361
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347944385edd2ce40baf23cfde71a569
+      internalID: 2120172623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_362
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48364dbd96d6dfc4492b678a7b1a56bb
+      internalID: 56629886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_368
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17617baf2f666a47a1da2a654d8392f
+      internalID: 1746934126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_374
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3564419459efc428e67ac4b241c153
+      internalID: 566841584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_375
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cbbd3c9e66c3040b604c54814d7848
+      internalID: -1749464139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_376
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80006b4a7ef942d46842aa4096d32c21
+      internalID: -979196312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_378
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 650
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36679405c8ec9e24cbce81b824590404
+      internalID: 1450922709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_380
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 650
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105a2666e92d7d4b88c20871e97768c
+      internalID: -942552571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_382
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5ab8e46e094da479f0fbc431266997
+      internalID: 609352759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_387
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9438b4e05d688a244af54dc03536fba6
+      internalID: -82856281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_388
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8e4acf59f434a448b244674f546ea7
+      internalID: 1476132239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_389
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f385b40a75898489008fef9bfd36ec
+      internalID: 1859918907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_395
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452e2d2132804ec4e82468fc5c2f2145
+      internalID: -2060390924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_411
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 619
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b469b26bc927240b6402ae1da4a03e
+      internalID: 459519990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_412
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 626
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0d68cf0a8bdd44187d322c6bef4510
+      internalID: -320774745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_440
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 578
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6819c5f8ed533bd4ca4b88c40f0f1db0
+      internalID: -1038555716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_454
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 571
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3823db1294f83914d8531303c1c68685
+      internalID: -196611389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_464
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 560
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b16c34b75a91ec42803aa06a084a2a7
+      internalID: 1586121552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_467
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 559
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d31cf6a5a65d4db52913924ff13c5
+      internalID: 1322026675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_468
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19e8b77874e8a14b842ec2ae39d840c
+      internalID: 96339086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_494
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742e9a3b17f61014ead17eaba5732573
+      internalID: -788954874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_506
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 513
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10609f30d61f55479ef06f58b72ad05
+      internalID: -1560401028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_507
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2891add35a00e42b99d3891acdaa94
+      internalID: 1950604423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_508
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 514
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a347e10252ac0c34fa0b3fe4c932b3c4
+      internalID: -2087791512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_510
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 514
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bcc153215bfe3449802436c3e1bb9b
+      internalID: -821418839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_513
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 514
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58156a4e3d350404dac1b641e909c2ac
+      internalID: -1456066043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_520
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd46a2947bf19b44aa3939e9c9248998
+      internalID: -1877459290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_526
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 509
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b86e3d19b6e294da06ca3c255ebc8e
+      internalID: -494273521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_817
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d571672e442dff14987573a83578afd8
+      internalID: 882101827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_827
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74effdc0707dde4280daaa587527dbb
+      internalID: -916893067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_830
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 162
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcd7333913a4b44e86b8ee9e743c984
+      internalID: 1818641619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_831
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 163
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fbc40c8f426294bb2a8018b0e5fed0
+      internalID: 1693507547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_832
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 163
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ffa907ebfd36446b3a472b8b42ca66
+      internalID: -1618447028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_839
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 139
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdf7a13157d28a4ca1d062573749355
+      internalID: -140344287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_843
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb1c6dadea998442b177f1d6905b724
+      internalID: 2104085234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_848
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d910dd5071a8b814ba76c7b9a134ef2c
+      internalID: 1556016771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_856
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 131
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e83d50df43733442b4b89a93eb6e163
+      internalID: 1389609393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_871
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdedb0f1b0896e43961267c3c9e731e
+      internalID: 1703900214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_878
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1873e1b5f0c0faa4da6cf75650e3ab9d
+      internalID: -1872652850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_879
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17abdf271de417348bf4c9350dbe8cf4
+      internalID: 1932711844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_888
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 74
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a125a50bbe0eb4391a0099f9c151e8
+      internalID: -1260677280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_891
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 74
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbcbe66f5bf77949a9e8a5ebc376db8
+      internalID: 808360382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_927
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ba1c0dd7b49a64bb454f3c2774ad04
+      internalID: -597845469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_928
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da06cd74946675c4db18fa2472767ca9
+      internalID: -2052314306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_161
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 545
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a251e4c13d1625948aaf78dd5b07bf3d
+      internalID: -2132611548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_163
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 577
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d2db738d695bf42895a66d3d0135b9
+      internalID: -829463973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_181
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 577
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0debaa5fc80d9b0498c018d24784f2c6
+      internalID: 432664149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_182
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 545
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc2356844f487c4eaaf839c919a74bc
+      internalID: 1668563321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_183
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c720ccdc795dba2449a5ac66c8c2d4f0
+      internalID: 375669369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Clothing_Store_184
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 12
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db5f6c526e0e654f8e05da3b4f28e21
+      internalID: 1575966024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      21_Clothing_Store_830: 1818641619
+      21_Clothing_Store_595: 139507169
+      21_Clothing_Store_950: 484914384
+      21_Clothing_Store_904: -1366833110
+      21_Clothing_Store_276: -1937428390
+      21_Clothing_Store_480: -644358706
+      21_Clothing_Store_711: 1385335218
+      21_Clothing_Store_673: 1600661222
+      21_Clothing_Store_497: -168644273
+      21_Clothing_Store_334: -1911923653
+      21_Clothing_Store_560: 2012769356
+      21_Clothing_Store_945: 944349727
+      21_Clothing_Store_111: 1487322521
+      21_Clothing_Store_419: 379291462
+      21_Clothing_Store_946: 1487895458
+      21_Clothing_Store_662: -872152981
+      21_Clothing_Store_514: 846798991
+      21_Clothing_Store_779: -1458492443
+      21_Clothing_Store_897: 1253703758
+      21_Clothing_Store_145: -458518493
+      21_Clothing_Store_255: -1904489731
+      21_Clothing_Store_76: -627300892
+      21_Clothing_Store_760: 518073306
+      21_Clothing_Store_84: -1249018690
+      21_Clothing_Store_216: -907731027
+      21_Clothing_Store_559: -944617365
+      21_Clothing_Store_105: -1405048328
+      21_Clothing_Store_148: 1390058097
+      21_Clothing_Store_374: 566841584
+      21_Clothing_Store_829: -1973449478
+      21_Clothing_Store_154: -617494554
+      21_Clothing_Store_401: -1937126538
+      21_Clothing_Store_199: -807728375
+      21_Clothing_Store_507: 1950604423
+      21_Clothing_Store_814: 1736370550
+      21_Clothing_Store_74: 266957410
+      21_Clothing_Store_655: -893374549
+      21_Clothing_Store_473: -733190625
+      21_Clothing_Store_715: 995721318
+      21_Clothing_Store_122: 615544952
+      21_Clothing_Store_296: -2070320932
+      21_Clothing_Store_718: 1659290670
+      21_Clothing_Store_679: 111946477
+      21_Clothing_Store_757: 2089350145
+      21_Clothing_Store_773: 1841808132
+      21_Clothing_Store_825: 63619570
+      21_Clothing_Store_635: 180088249
+      21_Clothing_Store_639: -420574472
+      21_Clothing_Store_132: 587920687
+      21_Clothing_Store_213: 1287853931
+      21_Clothing_Store_813: 2041363508
+      21_Clothing_Store_19: -1746196387
+      21_Clothing_Store_376: -979196312
+      21_Clothing_Store_77: -1833549387
+      21_Clothing_Store_648: -576009242
+      21_Clothing_Store_437: 29191346
+      21_Clothing_Store_913: -870502015
+      21_Clothing_Store_88: -1190309306
+      21_Clothing_Store_615: 1798502284
+      21_Clothing_Store_619: 116868411
+      21_Clothing_Store_513: -1456066043
+      21_Clothing_Store_948: 983502267
+      21_Clothing_Store_224: 1057416713
+      21_Clothing_Store_686: -1699828791
+      21_Clothing_Store_804: -1867757465
+      21_Clothing_Store_554: 883347038
+      21_Clothing_Store_456: -1141306361
+      21_Clothing_Store_432: 1173227262
+      21_Clothing_Store_206: -1823580164
+      21_Clothing_Store_835: -1876904497
+      21_Clothing_Store_656: 1650373585
+      21_Clothing_Store_678: 2041012259
+      21_Clothing_Store_112: -158416872
+      21_Clothing_Store_267: -444471052
+      21_Clothing_Store_796: 119290999
+      21_Clothing_Store_899: -1069984703
+      21_Clothing_Store_486: 1405394364
+      21_Clothing_Store_157: 562841494
+      21_Clothing_Store_937: 1470093015
+      21_Clothing_Store_636: 1038757023
+      21_Clothing_Store_918: -878499656
+      21_Clothing_Store_97: 1229566054
+      21_Clothing_Store_772: 1779313561
+      21_Clothing_Store_128: -1026093032
+      21_Clothing_Store_445: -2131407625
+      21_Clothing_Store_186: -1366187484
+      21_Clothing_Store_811: 41329181
+      21_Clothing_Store_841: 231152245
+      21_Clothing_Store_799: -1326208751
+      21_Clothing_Store_736: 356571440
+      21_Clothing_Store_343: 61824110
+      21_Clothing_Store_463: 1361562918
+      21_Clothing_Store_73: -2017203472
+      21_Clothing_Store_282: 1720681707
+      21_Clothing_Store_709: 1424359862
+      21_Clothing_Store_756: 449976150
+      21_Clothing_Store_623: -1304997939
+      21_Clothing_Store_728: 645592699
+      21_Clothing_Store_669: 658104793
+      21_Clothing_Store_9: -918700967
+      21_Clothing_Store_333: 1681469027
+      21_Clothing_Store_539: -1116728924
+      21_Clothing_Store_395: -2060390924
+      21_Clothing_Store_819: 2012723404
+      21_Clothing_Store_69: -995651338
+      21_Clothing_Store_43: -31414638
+      21_Clothing_Store_448: -1653325027
+      21_Clothing_Store_763: -1120465837
+      21_Clothing_Store_864: -428073739
+      21_Clothing_Store_549: -711085736
+      21_Clothing_Store_178: -706685357
+      21_Clothing_Store_358: 2061027962
+      21_Clothing_Store_384: -747307760
+      21_Clothing_Store_912: -688333504
+      21_Clothing_Store_289: 1427277995
+      21_Clothing_Store_803: -61469360
+      21_Clothing_Store_500: -1317321815
+      21_Clothing_Store_758: -693432845
+      21_Clothing_Store_403: 1906519500
+      21_Clothing_Store_447: -1986043632
+      21_Clothing_Store_631: -784175354
+      21_Clothing_Store_908: 12826610
+      21_Clothing_Store_925: 1680400051
+      21_Clothing_Store_523: -1886791944
+      21_Clothing_Store_98: -1004264795
+      21_Clothing_Store_91: 1207214137
+      21_Clothing_Store_852: 1822572338
+      21_Clothing_Store_608: 1863617431
+      21_Clothing_Store_863: -2017740251
+      21_Clothing_Store_210: -2056548861
+      21_Clothing_Store_159: -1677523067
+      21_Clothing_Store_472: -744638621
+      21_Clothing_Store_754: -848719049
+      21_Clothing_Store_505: -1084499765
+      21_Clothing_Store_785: 1816545114
+      21_Clothing_Store_573: 1752463589
+      21_Clothing_Store_418: 1958928273
+      21_Clothing_Store_951: 969175853
+      21_Clothing_Store_387: -82856281
+      21_Clothing_Store_415: -82806074
+      21_Clothing_Store_152: 51710596
+      21_Clothing_Store_873: 1603008085
+      21_Clothing_Store_280: 689982469
+      21_Clothing_Store_375: -1749464139
+      21_Clothing_Store_919: 953275435
+      21_Clothing_Store_740: -882390384
+      21_Clothing_Store_495: -236555653
+      21_Clothing_Store_168: 389417252
+      21_Clothing_Store_52: -2042668348
+      21_Clothing_Store_531: -1577034472
+      21_Clothing_Store_337: -186503195
+      21_Clothing_Store_364: 1523802072
+      21_Clothing_Store_120: 1352613339
+      21_Clothing_Store_134: -518000431
+      21_Clothing_Store_581: -604402660
+      21_Clothing_Store_719: 283136368
+      21_Clothing_Store_724: 1181632545
+      21_Clothing_Store_325: 453889460
+      21_Clothing_Store_438: -308077180
+      21_Clothing_Store_494: -788954874
+      21_Clothing_Store_402: 54523224
+      21_Clothing_Store_471: -835108541
+      21_Clothing_Store_586: -1619151825
+      21_Clothing_Store_847: 108217414
+      21_Clothing_Store_446: 1695317517
+      21_Clothing_Store_663: 1894214765
+      21_Clothing_Store_594: 1891521912
+      21_Clothing_Store_553: -2126726894
+      21_Clothing_Store_752: 659339159
+      21_Clothing_Store_21: 2111460708
+      21_Clothing_Store_26: 184331941
+      21_Clothing_Store_366: -1688739187
+      21_Clothing_Store_229: -1049026596
+      21_Clothing_Store_613: -111569784
+      21_Clothing_Store_431: 459271559
+      21_Clothing_Store_316: -1519477820
+      21_Clothing_Store_611: 179060302
+      21_Clothing_Store_627: 605891578
+      21_Clothing_Store_557: -2031593008
+      21_Clothing_Store_306: -787215291
+      21_Clothing_Store_564: -1567994440
+      21_Clothing_Store_211: 2531403
+      21_Clothing_Store_100: -479243575
+      21_Clothing_Store_93: 2095767411
+      21_Clothing_Store_293: -364518761
+      21_Clothing_Store_579: 418833806
+      21_Clothing_Store_443: -251385612
+      21_Clothing_Store_302: -851718362
+      21_Clothing_Store_62: -1610019110
+      21_Clothing_Store_451: -723314069
+      21_Clothing_Store_696: 2066843091
+      21_Clothing_Store_535: 464396918
+      21_Clothing_Store_597: 1083282518
+      21_Clothing_Store_171: 1182411967
+      21_Clothing_Store_200: 707991218
+      21_Clothing_Store_657: 1740029074
+      21_Clothing_Store_70: -1931787049
+      21_Clothing_Store_617: -2130876508
+      21_Clothing_Store_932: 210074023
+      21_Clothing_Store_742: -607925055
+      21_Clothing_Store_784: 197725941
+      21_Clothing_Store_922: -11213713
+      21_Clothing_Store_140: -357231227
+      21_Clothing_Store_328: -298570652
+      21_Clothing_Store_927: -597845469
+      21_Clothing_Store_642: -2074546125
+      21_Clothing_Store_266: 1407576149
+      21_Clothing_Store_426: 1152147616
+      21_Clothing_Store_165: -935714314
+      21_Clothing_Store_651: -956188210
+      21_Clothing_Store_746: 1765288551
+      21_Clothing_Store_371: 706427045
+      21_Clothing_Store_916: 1738242576
+      21_Clothing_Store_271: 141939362
+      21_Clothing_Store_462: -87180535
+      21_Clothing_Store_123: -937422357
+      21_Clothing_Store_789: 1095106661
+      21_Clothing_Store_32: 925672814
+      21_Clothing_Store_202: -665360347
+      21_Clothing_Store_868: -24899252
+      21_Clothing_Store_906: -240291459
+      21_Clothing_Store_628: 525506380
+      21_Clothing_Store_826: 1632975115
+      21_Clothing_Store_875: 635267450
+      21_Clothing_Store_382: 609352759
+      21_Clothing_Store_618: -859119965
+      21_Clothing_Store_739: 2106845701
+      21_Clothing_Store_113: 448757478
+      21_Clothing_Store_598: 333949178
+      21_Clothing_Store_712: -2059792539
+      21_Clothing_Store_239: 646795710
+      21_Clothing_Store_714: -840081483
+      21_Clothing_Store_748: 509635532
+      21_Clothing_Store_257: 1792067377
+      21_Clothing_Store_124: 1041146734
+      21_Clothing_Store_397: 1692800815
+      21_Clothing_Store_86: -49798571
+      21_Clothing_Store_476: 75021400
+      21_Clothing_Store_934: -2047428181
+      21_Clothing_Store_114: 509673961
+      21_Clothing_Store_345: -222938761
+      21_Clothing_Store_788: 1598676311
+      21_Clothing_Store_929: 1450476106
+      21_Clothing_Store_692: -818209442
+      21_Clothing_Store_22: -515139783
+      21_Clothing_Store_637: -1779822210
+      21_Clothing_Store_273: 725447944
+      21_Clothing_Store_232: 1567463273
+      21_Clothing_Store_390: 1543412400
+      21_Clothing_Store_793: 195970787
+      21_Clothing_Store_596: -50571218
+      21_Clothing_Store_762: -1157815529
+      21_Clothing_Store_231: -645741820
+      21_Clothing_Store_543: 856510467
+      21_Clothing_Store_5: 962601040
+      21_Clothing_Store_207: 907947731
+      21_Clothing_Store_853: -1090716651
+      21_Clothing_Store_340: 1009281040
+      21_Clothing_Store_870: -1549536967
+      21_Clothing_Store_31: 395962640
+      21_Clothing_Store_45: 1441920731
+      21_Clothing_Store_121: 995184517
+      21_Clothing_Store_717: 77167034
+      21_Clothing_Store_365: 2007892713
+      21_Clothing_Store_706: -495474224
+      21_Clothing_Store_605: -548480333
+      21_Clothing_Store_846: -275409541
+      21_Clothing_Store_501: 1748428563
+      21_Clothing_Store_214: 1421987153
+      21_Clothing_Store_518: 1072288155
+      21_Clothing_Store_905: -726150291
+      21_Clothing_Store_125: 1962698417
+      21_Clothing_Store_571: -3962983
+      21_Clothing_Store_30: 1893101899
+      21_Clothing_Store_79: 1406755408
+      21_Clothing_Store_129: 260085594
+      21_Clothing_Store_50: -643641334
+      21_Clothing_Store_363: -2019879162
+      21_Clothing_Store_354: -1572821897
+      21_Clothing_Store_768: 2080007347
+      21_Clothing_Store_487: -443389871
+      21_Clothing_Store_849: 1003419384
+      21_Clothing_Store_238: 230638265
+      21_Clothing_Store_118: -1149320587
+      21_Clothing_Store_848: 1556016771
+      21_Clothing_Store_838: -2130800573
+      21_Clothing_Store_82: -1964478902
+      21_Clothing_Store_351: 1734922253
+      21_Clothing_Store_498: -1651241585
+      21_Clothing_Store_525: -1516014093
+      21_Clothing_Store_536: -1132644898
+      21_Clothing_Store_926: 1423234895
+      21_Clothing_Store_139: -715851662
+      21_Clothing_Store_590: 670612506
+      21_Clothing_Store_361: 2120172623
+      21_Clothing_Store_167: 1947101865
+      21_Clothing_Store_850: -1302379758
+      21_Clothing_Store_517: 268360306
+      21_Clothing_Store_741: 1947977308
+      21_Clothing_Store_503: 253717864
+      21_Clothing_Store_666: 932382810
+      21_Clothing_Store_312: -475493309
+      21_Clothing_Store_694: -990662601
+      21_Clothing_Store_484: 1937786605
+      21_Clothing_Store_532: 56086604
+      21_Clothing_Store_449: 585812063
+      21_Clothing_Store_78: 1917932962
+      21_Clothing_Store_698: 921597705
+      21_Clothing_Store_291: -995596201
+      21_Clothing_Store_493: -1189555955
+      21_Clothing_Store_731: -888584379
+      21_Clothing_Store_286: 1472566831
+      21_Clothing_Store_336: -503092481
+      21_Clothing_Store_3: 122646869
+      21_Clothing_Store_347: -2056508211
+      21_Clothing_Store_274: -483621411
+      21_Clothing_Store_60: 1343189202
+      21_Clothing_Store_353: -454595125
+      21_Clothing_Store_578: 4827974
+      21_Clothing_Store_479: -427258675
+      21_Clothing_Store_180: -1728062625
+      21_Clothing_Store_649: -526102672
+      21_Clothing_Store_616: 1934300479
+      21_Clothing_Store_12: 1768947805
+      21_Clothing_Store_424: 893936414
+      21_Clothing_Store_944: 748163369
+      21_Clothing_Store_672: 1663447868
+      21_Clothing_Store_874: -1258063990
+      21_Clothing_Store_676: -1084790533
+      21_Clothing_Store_236: -1965627022
+      21_Clothing_Store_247: -1320452772
+      21_Clothing_Store_622: 2075455199
+      21_Clothing_Store_565: 1429218860
+      21_Clothing_Store_425: 1730963389
+      21_Clothing_Store_399: -1714544775
+      21_Clothing_Store_94: -1171713933
+      21_Clothing_Store_502: 607817423
+      21_Clothing_Store_524: -1440173276
+      21_Clothing_Store_506: -1560401028
+      21_Clothing_Store_895: 206961697
+      21_Clothing_Store_896: 1727448296
+      21_Clothing_Store_156: 850253165
+      21_Clothing_Store_299: 753399746
+      21_Clothing_Store_735: 1413561634
+      21_Clothing_Store_275: -484913002
+      21_Clothing_Store_562: -1947413103
+      21_Clothing_Store_307: -597239015
+      21_Clothing_Store_37: 359960410
+      21_Clothing_Store_478: -182114244
+      21_Clothing_Store_350: -1557646444
+      21_Clothing_Store_921: -531876740
+      21_Clothing_Store_116: -1809178142
+      21_Clothing_Store_458: -558054065
+      21_Clothing_Store_537: -286851685
+      21_Clothing_Store_265: 24322614
+      21_Clothing_Store_798: -1344908503
+      21_Clothing_Store_665: 2070495265
+      21_Clothing_Store_815: -321773445
+      21_Clothing_Store_410: -820765020
+      21_Clothing_Store_143: 1705787706
+      21_Clothing_Store_349: 905436163
+      21_Clothing_Store_580: 280958602
+      21_Clothing_Store_936: -1292211973
+      21_Clothing_Store_61: 686796182
+      21_Clothing_Store_44: -613110098
+      21_Clothing_Store_283: -1942808650
+      21_Clothing_Store_455: 1432564305
+      21_Clothing_Store_370: -2065275265
+      21_Clothing_Store_551: -520467075
+      21_Clothing_Store_670: 1987108360
+      21_Clothing_Store_606: -1564040641
+      21_Clothing_Store_29: -563769345
+      21_Clothing_Store_461: -1255158546
+      21_Clothing_Store_794: 32779236
+      21_Clothing_Store_751: -1277926187
+      21_Clothing_Store_877: 105468838
+      21_Clothing_Store_802: -1638070073
+      21_Clothing_Store_614: 1752848164
+      21_Clothing_Store_322: -1580100464
+      21_Clothing_Store_521: -2049917241
+      21_Clothing_Store_654: 305750353
+      21_Clothing_Store_770: -1307683968
+      21_Clothing_Store_941: -1829180789
+      21_Clothing_Store_33: -871680713
+      21_Clothing_Store_304: -359799228
+      21_Clothing_Store_251: -604900426
+      21_Clothing_Store_7: 276542041
+      21_Clothing_Store_183: 375669369
+      21_Clothing_Store_201: 1647165015
+      21_Clothing_Store_137: 56727040
+      21_Clothing_Store_468: 96339086
+      21_Clothing_Store_947: 1610078264
+      21_Clothing_Store_65: -733548551
+      21_Clothing_Store_682: -181682472
+      21_Clothing_Store_687: -1036158833
+      21_Clothing_Store_602: 2100610119
+      21_Clothing_Store_499: 343853994
+      21_Clothing_Store_381: 732004873
+      21_Clothing_Store_862: 1843766560
+      21_Clothing_Store_176: -73461871
+      21_Clothing_Store_949: -1162073267
+      21_Clothing_Store_859: -10431164
+      21_Clothing_Store_234: -1764105996
+      21_Clothing_Store_56: 1905177351
+      21_Clothing_Store_920: -126913113
+      21_Clothing_Store_109: 1863701639
+      21_Clothing_Store_836: 1229259676
+      21_Clothing_Store_452: 1320832089
+      21_Clothing_Store_81: 601718570
+      21_Clothing_Store_766: -2121170195
+      21_Clothing_Store_209: -1934075263
+      21_Clothing_Store_34: -453110177
+      21_Clothing_Store_667: 1576732921
+      21_Clothing_Store_230: 919519876
+      21_Clothing_Store_457: -1883551206
+      21_Clothing_Store_24: -810300930
+      21_Clothing_Store_89: -1971360241
+      21_Clothing_Store_90: -135496685
+      21_Clothing_Store_647: 1609259979
+      21_Clothing_Store_421: 283278927
+      21_Clothing_Store_675: 122473009
+      21_Clothing_Store_759: -1616466656
+      21_Clothing_Store_878: -1872652850
+      21_Clothing_Store_262: -956038502
+      21_Clothing_Store_314: -903408893
+      21_Clothing_Store_317: -157237040
+      21_Clothing_Store_508: -2087791512
+      21_Clothing_Store_388: 1476132239
+      21_Clothing_Store_668: -946394080
+      21_Clothing_Store_14: 1934759408
+      21_Clothing_Store_25: -654546865
+      21_Clothing_Store_942: 280732663
+      21_Clothing_Store_778: 1323207770
+      21_Clothing_Store_179: 1055793565
+      21_Clothing_Store_338: -1423717304
+      21_Clothing_Store_454: -196611389
+      21_Clothing_Store_883: -330508982
+      21_Clothing_Store_809: 1443969734
+      21_Clothing_Store_173: 1507139034
+      21_Clothing_Store_4: 2067820859
+      21_Clothing_Store_792: 2099106249
+      21_Clothing_Store_246: -1403621057
+      21_Clothing_Store_253: -1088958534
+      21_Clothing_Store_151: 241653214
+      21_Clothing_Store_226: -1856020053
+      21_Clothing_Store_828: -607153558
+      21_Clothing_Store_205: -1666565028
+      21_Clothing_Store_378: 1450922709
+      21_Clothing_Store_858: -817862935
+      21_Clothing_Store_872: -1829988330
+      21_Clothing_Store_360: -1858175740
+      21_Clothing_Store_630: 1689383709
+      21_Clothing_Store_592: 1826727261
+      21_Clothing_Store_584: -1696196909
+      21_Clothing_Store_534: 723639004
+      21_Clothing_Store_17: 1045237054
+      21_Clothing_Store_158: 521479614
+      21_Clothing_Store_450: 2037411983
+      21_Clothing_Store_481: -511360315
+      21_Clothing_Store_429: 702616936
+      21_Clothing_Store_442: -1990340243
+      21_Clothing_Store_38: -471552577
+      21_Clothing_Store_465: 981532059
+      21_Clothing_Store_889: -1542906327
+      21_Clothing_Store_893: -1887907653
+      21_Clothing_Store_761: -1061872923
+      21_Clothing_Store_787: 365752729
+      21_Clothing_Store_433: -833095188
+      21_Clothing_Store_902: -827254540
+      21_Clothing_Store_436: -31058925
+      21_Clothing_Store_135: 1905936488
+      21_Clothing_Store_680: -240899772
+      21_Clothing_Store_290: 877755095
+      21_Clothing_Store_240: -1002035606
+      21_Clothing_Store_420: -1391397412
+      21_Clothing_Store_58: -206689810
+      21_Clothing_Store_938: -1452107753
+      21_Clothing_Store_509: -808897353
+      21_Clothing_Store_46: 405198704
+      21_Clothing_Store_144: -1656224132
+      21_Clothing_Store_227: 719425499
+      21_Clothing_Store_492: -620174180
+      21_Clothing_Store_940: 1417855490
+      21_Clothing_Store_318: -700386144
+      21_Clothing_Store_660: 49624377
+      21_Clothing_Store_48: 557829618
+      21_Clothing_Store_327: 1803617453
+      21_Clothing_Store_839: -140344287
+      21_Clothing_Store_483: 891802604
+      21_Clothing_Store_244: 845791720
+      21_Clothing_Store_749: 477123645
+      21_Clothing_Store_683: -1875676439
+      21_Clothing_Store_39: -1248682671
+      21_Clothing_Store_404: 1513178450
+      21_Clothing_Store_221: -1939018513
+      21_Clothing_Store_295: 1020717154
+      21_Clothing_Store_601: -1986367252
+      21_Clothing_Store_824: 1026794578
+      21_Clothing_Store_281: -972185891
+      21_Clothing_Store_198: -305690784
+      21_Clothing_Store_172: -545517300
+      21_Clothing_Store_771: 897923184
+      21_Clothing_Store_235: -1996552576
+      21_Clothing_Store_453: -86328308
+      21_Clothing_Store_933: -1317808132
+      21_Clothing_Store_625: 2039298962
+      21_Clothing_Store_572: 1289640077
+      21_Clothing_Store_884: -445778337
+      21_Clothing_Store_930: 1183357332
+      21_Clothing_Store_911: -271879202
+      21_Clothing_Store_57: -460316359
+      21_Clothing_Store_707: -771920324
+      21_Clothing_Store_329: 986958764
+      21_Clothing_Store_428: -588769463
+      21_Clothing_Store_189: 1109590731
+      21_Clothing_Store_162: -1500578706
+      21_Clothing_Store_332: 1882602726
+      21_Clothing_Store_511: 1985884667
+      21_Clothing_Store_212: 2129727856
+      21_Clothing_Store_609: -2072016000
+      21_Clothing_Store_886: 1579498231
+      21_Clothing_Store_228: 1954193749
+      21_Clothing_Store_146: 129531401
+      21_Clothing_Store_582: 463791625
+      21_Clothing_Store_566: 212549961
+      21_Clothing_Store_827: -916893067
+      21_Clothing_Store_64: 2034830318
+      21_Clothing_Store_41: -1633734401
+      21_Clothing_Store_27: -766990513
+      21_Clothing_Store_544: -1387621682
+      21_Clothing_Store_368: 1746934126
+      21_Clothing_Store_733: 1873436741
+      21_Clothing_Store_538: 2071020588
+      21_Clothing_Store_817: 882101827
+      21_Clothing_Store_287: 1913775241
+      21_Clothing_Store_303: -1180422124
+      21_Clothing_Store_95: 1603861164
+      21_Clothing_Store_341: -1018129910
+      21_Clothing_Store_464: 1586121552
+      21_Clothing_Store_563: -1031899643
+      21_Clothing_Store_101: -533540568
+      21_Clothing_Store_16: -598654358
+      21_Clothing_Store_218: 894637563
+      21_Clothing_Store_909: -1027546812
+      21_Clothing_Store_837: 1866975585
+      21_Clothing_Store_270: -805701048
+      21_Clothing_Store_193: 1477732101
+      21_Clothing_Store_903: -318256094
+      21_Clothing_Store_394: -1477781859
+      21_Clothing_Store_348: 2026508533
+      21_Clothing_Store_684: 1522576609
+      21_Clothing_Store_36: -1180640674
+      21_Clothing_Store_51: -1960062592
+      21_Clothing_Store_459: 118709405
+      21_Clothing_Store_175: 1866107217
+      21_Clothing_Store_422: -46955734
+      21_Clothing_Store_924: -1522815415
+      21_Clothing_Store_466: 1646663337
+      21_Clothing_Store_63: -1560957526
+      21_Clothing_Store_708: -25814329
+      21_Clothing_Store_264: 2019455840
+      21_Clothing_Store_319: -605250321
+      21_Clothing_Store_729: -985141403
+      21_Clothing_Store_710: 1303225133
+      21_Clothing_Store_133: -1898128085
+      21_Clothing_Store_583: 120319286
+      21_Clothing_Store_416: 1443311010
+      21_Clothing_Store_259: -236909355
+      21_Clothing_Store_593: -1730147346
+      21_Clothing_Store_75: 1317053552
+      21_Clothing_Store_386: -1805267385
+      21_Clothing_Store_928: -2052314306
+      21_Clothing_Store_515: -789950305
+      21_Clothing_Store_822: 1241677688
+      21_Clothing_Store_885: -1181557562
+      21_Clothing_Store_106: 247242153
+      21_Clothing_Store_13: 192702457
+      21_Clothing_Store_185: -730362104
+      21_Clothing_Store_301: 735072630
+      21_Clothing_Store_844: 411698694
+      21_Clothing_Store_681: 1133416513
+      21_Clothing_Store_126: -598342487
+      21_Clothing_Store_414: -215371855
+      21_Clothing_Store_491: -1435860074
+      21_Clothing_Store_269: 690528433
+      21_Clothing_Store_59: -822892452
+      21_Clothing_Store_115: 1308022044
+      21_Clothing_Store_797: 11704288
+      21_Clothing_Store_496: 763403443
+      21_Clothing_Store_279: -1339513258
+      21_Clothing_Store_734: 941809388
+      21_Clothing_Store_816: 460475015
+      21_Clothing_Store_646: 1383529727
+      21_Clothing_Store_818: 709662207
+      21_Clothing_Store_545: -195075942
+      21_Clothing_Store_703: 1141289242
+      21_Clothing_Store_237: -1154629153
+      21_Clothing_Store_775: 1024451984
+      21_Clothing_Store_85: -172197948
+      21_Clothing_Store_379: 1670372446
+      21_Clothing_Store_423: 214370950
+      21_Clothing_Store_764: -1689154011
+      21_Clothing_Store_845: 1001996570
+      21_Clothing_Store_892: 236737849
+      21_Clothing_Store_603: 1291512272
+      21_Clothing_Store_935: -209609062
+      21_Clothing_Store_393: 69657014
+      21_Clothing_Store_373: 673494742
+      21_Clothing_Store_685: -816764034
+      21_Clothing_Store_54: 351639371
+      21_Clothing_Store_263: 1943306677
+      21_Clothing_Store_166: 1953122234
+      21_Clothing_Store_604: 1407638756
+      21_Clothing_Store_664: -2064281425
+      21_Clothing_Store_881: -132074275
+      21_Clothing_Store_313: 775698690
+      21_Clothing_Store_377: 1095972822
+      21_Clothing_Store_385: -1721699353
+      21_Clothing_Store_68: -270961133
+      21_Clothing_Store_225: -529387941
+      21_Clothing_Store_110: 1031988287
+      21_Clothing_Store_40: -1092182587
+      21_Clothing_Store_292: 2061144580
+      21_Clothing_Store_398: -690115489
+      21_Clothing_Store_690: 1554629746
+      21_Clothing_Store_194: 449797025
+      21_Clothing_Store_261: -601538074
+      21_Clothing_Store_8: -1979794765
+      21_Clothing_Store_943: 151931054
+      21_Clothing_Store_108: 1850147559
+      21_Clothing_Store_693: -539682242
+      21_Clothing_Store_10: 1789650844
+      21_Clothing_Store_697: -1131217412
+      21_Clothing_Store_107: -859466643
+      21_Clothing_Store_153: 950915330
+      21_Clothing_Store_220: 341815446
+      21_Clothing_Store_689: 1067629244
+      21_Clothing_Store_362: 56629886
+      21_Clothing_Store_776: -1552265924
+      21_Clothing_Store_569: -1972645030
+      21_Clothing_Store_898: -2144903414
+      21_Clothing_Store_570: 334580023
+      21_Clothing_Store_575: -852207291
+      21_Clothing_Store_677: 342531470
+      21_Clothing_Store_738: -46683421
+      21_Clothing_Store_219: 132888729
+      21_Clothing_Store_857: 1058417292
+      21_Clothing_Store_542: 1874671485
+      21_Clothing_Store_743: -2058872159
+      21_Clothing_Store_104: -978305198
+      21_Clothing_Store_528: -2116998442
+      21_Clothing_Store_80: 618267012
+      21_Clothing_Store_607: 532848941
+      21_Clothing_Store_833: 1704966141
+      21_Clothing_Store_405: 1801791041
+      21_Clothing_Store_621: -1018291986
+      21_Clothing_Store_417: 824875896
+      21_Clothing_Store_482: -1505452509
+      21_Clothing_Store_396: 936875940
+      21_Clothing_Store_310: 150765802
+      21_Clothing_Store_546: -1501369350
+      21_Clothing_Store_812: -1592335414
+      21_Clothing_Store_540: -1981063487
+      21_Clothing_Store_820: -520905314
+      21_Clothing_Store_577: 907654729
+      21_Clothing_Store_914: -519129865
+      21_Clothing_Store_53: -1244466044
+      21_Clothing_Store_413: -1179435990
+      21_Clothing_Store_389: 1859918907
+      21_Clothing_Store_92: -605171997
+      21_Clothing_Store_256: 38074532
+      21_Clothing_Store_42: -444041058
+      21_Clothing_Store_866: -1312392659
+      21_Clothing_Store_879: 1932711844
+      21_Clothing_Store_83: -802831692
+      21_Clothing_Store_284: 731072981
+      21_Clothing_Store_330: 201682879
+      21_Clothing_Store_311: -1226861097
+      21_Clothing_Store_869: 2072812809
+      21_Clothing_Store_411: 459519990
+      21_Clothing_Store_894: 1627015384
+      21_Clothing_Store_355: 1243032285
+      21_Clothing_Store_169: -1899109696
+      21_Clothing_Store_769: -1914724633
+      21_Clothing_Store_750: -1350065023
+      21_Clothing_Store_730: 375420489
+      21_Clothing_Store_890: 2139247561
+      21_Clothing_Store_181: 432664149
+      21_Clothing_Store_516: -2049224688
+      21_Clothing_Store_72: 1276245517
+      21_Clothing_Store_808: -868767903
+      21_Clothing_Store_300: -1311457222
+      21_Clothing_Store_907: -370582145
+      21_Clothing_Store_305: 1145578544
+      21_Clothing_Store_182: 1668563321
+      21_Clothing_Store_67: -923553918
+      21_Clothing_Store_252: 179664134
+      21_Clothing_Store_243: 1641874284
+      21_Clothing_Store_810: -1212615173
+      21_Clothing_Store_638: 477172495
+      21_Clothing_Store_612: -1537126073
+      21_Clothing_Store_633: -1843434271
+      21_Clothing_Store_774: 335298757
+      21_Clothing_Store_641: -1247354878
+      21_Clothing_Store_142: -266474310
+      21_Clothing_Store_732: -192403472
+      21_Clothing_Store_141: 2047917233
+      21_Clothing_Store_66: 1497679693
+      21_Clothing_Store_834: -1898689958
+      21_Clothing_Store_298: -1591091397
+      21_Clothing_Store_800: -1454033275
+      21_Clothing_Store_2: 1168015588
+      21_Clothing_Store_258: 366087464
+      21_Clothing_Store_805: -592921150
+      21_Clothing_Store_901: -862719954
+      21_Clothing_Store_645: 1662290094
+      21_Clothing_Store_504: -2042738874
+      21_Clothing_Store_512: 905268463
+      21_Clothing_Store_723: 1121445691
+      21_Clothing_Store_632: -457591217
+      21_Clothing_Store_147: 1884902561
+      21_Clothing_Store_408: -1597839081
+      21_Clothing_Store_585: -1385777131
+      21_Clothing_Store_254: 1751265049
+      21_Clothing_Store_527: 287937956
+      21_Clothing_Store_190: 1767268960
+      21_Clothing_Store_367: 1887214360
+      21_Clothing_Store_150: 773178702
+      21_Clothing_Store_745: 1232038968
+      21_Clothing_Store_520: -1877459290
+      21_Clothing_Store_923: 928201356
+      21_Clothing_Store_320: 1851712860
+      21_Clothing_Store_391: -984060082
+      21_Clothing_Store_163: -829463973
+      21_Clothing_Store_807: 2096082330
+      21_Clothing_Store_188: 169516490
+      21_Clothing_Store_568: -1049997307
+      21_Clothing_Store_242: 304581204
+      21_Clothing_Store_726: -1878945458
+      21_Clothing_Store_434: -1460112307
+      21_Clothing_Store_753: 965877024
+      21_Clothing_Store_887: 1565836028
+      21_Clothing_Store_49: -517331067
+      21_Clothing_Store_119: -1818940333
+      21_Clothing_Store_671: -122298914
+      21_Clothing_Store_704: -1702530233
+      21_Clothing_Store_131: 1703738153
+      21_Clothing_Store_475: -1786321024
+      21_Clothing_Store_533: -317045607
+      21_Clothing_Store_576: 1320713734
+      21_Clothing_Store_644: 1187896401
+      21_Clothing_Store_323: -833742782
+      21_Clothing_Store_249: -1957659711
+      21_Clothing_Store_352: 615369517
+      21_Clothing_Store_174: 666473560
+      21_Clothing_Store_155: -928704752
+      21_Clothing_Store_184: 1575966024
+      21_Clothing_Store_600: -1229547303
+      21_Clothing_Store_801: 182068444
+      21_Clothing_Store_444: -262834030
+      21_Clothing_Store_547: -982577677
+      21_Clothing_Store_674: 1427967061
+      21_Clothing_Store_356: -958120956
+      21_Clothing_Store_541: 1764350908
+      21_Clothing_Store_661: -746584655
+      21_Clothing_Store_910: -1583326276
+      21_Clothing_Store_285: 134153152
+      21_Clothing_Store_765: 1685801385
+      21_Clothing_Store_195: 275116422
+      21_Clothing_Store_127: 778113204
+      21_Clothing_Store_18: -1580420551
+      21_Clothing_Store_591: -119604903
+      21_Clothing_Store_865: -2138579339
+      21_Clothing_Store_203: 1048372077
+      21_Clothing_Store_786: 1119409391
+      21_Clothing_Store_716: -1189983228
+      21_Clothing_Store_294: -937649506
+      21_Clothing_Store_197: -332064262
+      21_Clothing_Store_187: -1107153592
+      21_Clothing_Store_460: -2054637396
+      21_Clothing_Store_650: -1317612563
+      21_Clothing_Store_130: 1635169972
+      21_Clothing_Store_652: -1494136663
+      21_Clothing_Store_699: -1636105805
+      21_Clothing_Store_880: 1394043070
+      21_Clothing_Store_782: -1334303767
+      21_Clothing_Store_208: -2045887745
+      21_Clothing_Store_369: 897593726
+      21_Clothing_Store_407: 563958254
+      21_Clothing_Store_783: 1824034220
+      21_Clothing_Store_643: 1448532056
+      21_Clothing_Store_215: 194695634
+      21_Clothing_Store_435: 1952947121
+      21_Clothing_Store_380: -942552571
+      21_Clothing_Store_250: 1610275655
+      21_Clothing_Store_780: 1336874301
+      21_Clothing_Store_23: -608244182
+      21_Clothing_Store_469: -782493223
+      21_Clothing_Store_339: -1022346049
+      21_Clothing_Store_477: -731865528
+      21_Clothing_Store_720: 6629381
+      21_Clothing_Store_331: 31147763
+      21_Clothing_Store_474: 1163283660
+      21_Clothing_Store_855: -645356128
+      21_Clothing_Store_217: 1953426880
+      21_Clothing_Store_223: 1618224305
+      21_Clothing_Store_412: -320774745
+      21_Clothing_Store_624: 610014715
+      21_Clothing_Store_439: -1450426751
+      21_Clothing_Store_359: -1444892918
+      21_Clothing_Store_400: 364852610
+      21_Clothing_Store_344: -1116109749
+      21_Clothing_Store_406: 1301807518
+      21_Clothing_Store_626: -1463086036
+      21_Clothing_Store_867: 1037406047
+      21_Clothing_Store_552: -290583246
+      21_Clothing_Store_490: -1821529687
+      21_Clothing_Store_392: -2117831669
+      21_Clothing_Store_658: 222610101
+      21_Clothing_Store_781: -908700966
+      21_Clothing_Store_372: 2091581107
+      21_Clothing_Store_620: 1230810337
+      21_Clothing_Store_233: 1269211656
+      21_Clothing_Store_409: -1588618523
+      21_Clothing_Store_1: 1275031764
+      21_Clothing_Store_427: -352150747
+      21_Clothing_Store_891: 808360382
+      21_Clothing_Store_823: -419729624
+      21_Clothing_Store_268: -1912928441
+      21_Clothing_Store_589: -42178725
+      21_Clothing_Store_702: -1073119999
+      21_Clothing_Store_196: 1661889745
+      21_Clothing_Store_737: 132870070
+      21_Clothing_Store_555: -1134009953
+      21_Clothing_Store_102: 1356230819
+      21_Clothing_Store_222: 91147194
+      21_Clothing_Store_695: 1092439379
+      21_Clothing_Store_0: 2141573519
+      21_Clothing_Store_519: -1683828088
+      21_Clothing_Store_6: 1093826200
+      21_Clothing_Store_470: -242638935
+      21_Clothing_Store_245: 249671887
+      21_Clothing_Store_117: -1781333711
+      21_Clothing_Store_71: 1841506513
+      21_Clothing_Store_324: 567762046
+      21_Clothing_Store_47: -1253689012
+      21_Clothing_Store_308: -1357626101
+      21_Clothing_Store_467: 1322026675
+      21_Clothing_Store_28: 1022032756
+      21_Clothing_Store_567: 1753776042
+      21_Clothing_Store_558: 208258696
+      21_Clothing_Store_713: 971026731
+      21_Clothing_Store_587: 272945282
+      21_Clothing_Store_861: -990824919
+      21_Clothing_Store_860: -1412911906
+      21_Clothing_Store_11: -937077201
+      21_Clothing_Store_725: 1975396008
+      21_Clothing_Store_790: -1466427228
+      21_Clothing_Store_288: 1988386437
+      21_Clothing_Store_931: 1678228827
+      21_Clothing_Store_777: -272654578
+      21_Clothing_Store_55: 679898943
+      21_Clothing_Store_550: -1770884451
+      21_Clothing_Store_721: -216909730
+      21_Clothing_Store_260: 2119471213
+      21_Clothing_Store_701: -331756360
+      21_Clothing_Store_588: 1547865735
+      21_Clothing_Store_87: -730108703
+      21_Clothing_Store_526: -494273521
+      21_Clothing_Store_192: 237836249
+      21_Clothing_Store_160: 589089261
+      21_Clothing_Store_510: -821418839
+      21_Clothing_Store_522: -1781663476
+      21_Clothing_Store_430: -1669143535
+      21_Clothing_Store_727: -1053764206
+      21_Clothing_Store_357: 2041745227
+      21_Clothing_Store_149: -2113022249
+      21_Clothing_Store_876: 1941077747
+      21_Clothing_Store_297: 1519371906
+      21_Clothing_Store_204: -131815112
+      21_Clothing_Store_309: 1492269332
+      21_Clothing_Store_791: 2105342777
+      21_Clothing_Store_832: -1618447028
+      21_Clothing_Store_856: 1389609393
+      21_Clothing_Store_278: 840076955
+      21_Clothing_Store_744: 773105860
+      21_Clothing_Store_177: -1493960396
+      21_Clothing_Store_241: -1219547910
+      21_Clothing_Store_888: -1260677280
+      21_Clothing_Store_653: 1082679246
+      21_Clothing_Store_917: -1058395954
+      21_Clothing_Store_599: -1829371083
+      21_Clothing_Store_854: -987614714
+      21_Clothing_Store_346: -663999082
+      21_Clothing_Store_634: 558616014
+      21_Clothing_Store_806: -1361475987
+      21_Clothing_Store_315: -2122072854
+      21_Clothing_Store_383: 743669415
+      21_Clothing_Store_640: 568759789
+      21_Clothing_Store_548: -1537034440
+      21_Clothing_Store_170: -710341917
+      21_Clothing_Store_161: -2132611548
+      21_Clothing_Store_485: 1489145438
+      21_Clothing_Store_441: -1726885254
+      21_Clothing_Store_342: 289582015
+      21_Clothing_Store_574: 434593937
+      21_Clothing_Store_915: -549090117
+      21_Clothing_Store_842: -1539879739
+      21_Clothing_Store_900: -907453386
+      21_Clothing_Store_659: -634263498
+      21_Clothing_Store_747: 562815144
+      21_Clothing_Store_767: 1085850868
+      21_Clothing_Store_629: -148948384
+      21_Clothing_Store_136: -954719773
+      21_Clothing_Store_610: -1770048966
+      21_Clothing_Store_840: -1310022153
+      21_Clothing_Store_326: 1577028191
+      21_Clothing_Store_795: -582071184
+      21_Clothing_Store_35: 1985698693
+      21_Clothing_Store_529: 916656633
+      21_Clothing_Store_705: -826460631
+      21_Clothing_Store_99: -106886765
+      21_Clothing_Store_939: -247152189
+      21_Clothing_Store_561: 806628474
+      21_Clothing_Store_488: -1328223944
+      21_Clothing_Store_489: 639916092
+      21_Clothing_Store_821: 1629055050
+      21_Clothing_Store_843: 2104085234
+      21_Clothing_Store_277: -784310411
+      21_Clothing_Store_691: 741304103
+      21_Clothing_Store_96: 1191846468
+      21_Clothing_Store_191: 1921489018
+      21_Clothing_Store_248: -776665832
+      21_Clothing_Store_272: -1230094307
+      21_Clothing_Store_335: 524096924
+      21_Clothing_Store_871: 1703900214
+      21_Clothing_Store_722: -1874514168
+      21_Clothing_Store_530: -1410888813
+      21_Clothing_Store_831: 1693507547
+      21_Clothing_Store_851: 1760291326
+      21_Clothing_Store_556: 236291892
+      21_Clothing_Store_138: 1455369266
+      21_Clothing_Store_20: 302008996
+      21_Clothing_Store_164: -614119543
+      21_Clothing_Store_440: -1038555716
+      21_Clothing_Store_755: -229391170
+      21_Clothing_Store_15: 1151485996
+      21_Clothing_Store_882: -1029815577
+      21_Clothing_Store_103: 672531203
+      21_Clothing_Store_321: 1146844635
+      21_Clothing_Store_688: -642583698
+      21_Clothing_Store_700: -883652958
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
