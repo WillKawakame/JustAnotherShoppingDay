@@ -10,14 +10,12 @@ public class HUD : MonoBehaviour
 
     public Image Hat;
     public Image Outfit;
-
-    private void Start() {
+    private void Update() {
         Hat.sprite = items_.itemTypes[1].items[Card.Skins[1]].Icon;
         Outfit.sprite = items_.itemTypes[2].items[Card.Skins[2]].Icon;
-    }
-
-    private void Update() {
         YourMoney.text = "Your Money: " + Card.YourMoney;
         TotalPrice.text = "Total Value: " + Card.TotalValue;
+
+
     }
 }

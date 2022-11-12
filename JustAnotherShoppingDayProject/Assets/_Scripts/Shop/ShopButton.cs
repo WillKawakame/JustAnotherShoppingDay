@@ -36,6 +36,7 @@ public class ShopButton : MonoBehaviour
         var item = items.itemTypes[shop.BodyPart].items[shop.itemSelect];
         if(Card.YourMoney >= item.Price){
             item.isAvaliable = true;
+            Card.YourMoney -= item.Price;
         }else{
             //Can't buy
         }

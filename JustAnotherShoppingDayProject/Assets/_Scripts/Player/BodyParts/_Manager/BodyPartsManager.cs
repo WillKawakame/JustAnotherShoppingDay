@@ -18,19 +18,17 @@ public class BodyPartsManager : MonoBehaviour{
 
         clipOverrides = new AnimationClipOverrides(animatorOverrideController.overridesCount);
         animatorOverrideController.GetOverrides(clipOverrides);
-
-        OverrideAnimations();
     }
 
     public void OverrideAnimations(){
-        
-
         for (int partIndex = 0; partIndex < characterBody.BodyParts.Length; partIndex++){
             for(int itemAnimation = 0; itemAnimation < characterBody.BodyParts[partIndex].BodyPartItem.Animations.Length; itemAnimation++){
-                clipOverrides[currentCharacterBody.BodyParts[partIndex].BodyPartItem.Animations[itemAnimation].name] = characterBody.BodyParts[partIndex].BodyPartItem.Animations[itemAnimation];
+                Debug.Log("current" + currentCharacterBody.BodyParts[partIndex].BodyPartItem.Animations[itemAnimation].name);
+                Debug.Log("characterBody" + characterBody.BodyParts[partIndex].BodyPartItem.Animations[itemAnimation]);
+                clipOverrides[characterBody.BodyParts[partIndex].BodyPartItem.Animations[itemAnimation].name] = currentCharacterBody.BodyParts[partIndex].BodyPartItem.Animations[itemAnimation];
             }
         }
-        
+
         animatorOverrideController.ApplyOverrides(clipOverrides);
     }
 }

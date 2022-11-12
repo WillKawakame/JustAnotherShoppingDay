@@ -4,6 +4,8 @@ public class Actions : MonoBehaviour
 {
     public ActionsList actionsList;
     public DialogueTrigger dialogueTrigger;
+
+    // Many actions that I won't be able :(
     public void Action(){
         switch(actionsList){
             case ActionsList.None:
