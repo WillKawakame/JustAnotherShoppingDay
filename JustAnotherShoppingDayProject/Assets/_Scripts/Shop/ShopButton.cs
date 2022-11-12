@@ -45,5 +45,6 @@ public class ShopButton : MonoBehaviour
         var item = items.itemTypes[shop.BodyPart].items[shop.itemSelect];
         bodyPartsManager.currentCharacterBody.BodyParts[shop.BodyPart].BodyPartItem = item;
         bodyPartsManager.OverrideAnimations();
+        bodyPartsManager.characterBody.BodyParts[shop.BodyPart].BodyPartItem = item;
     }
 }

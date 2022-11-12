@@ -16,4 +16,8 @@ MonoBehaviour:
   Price: 35
   Icon: {fileID: 21300000, guid: bb11db85f239d3640a49d5a3957b369e, type: 2}
   isAvaliable: 0
-  Animations: []
+  Animations:
+  - {fileID: 7400000, guid: 9b7f875fbe66e704aabaa88f92f1a018, type: 2}
+  - {fileID: 7400000, guid: 6cb62ec88bb4e1049b76f5369f526dd9, type: 2}
+  - {fileID: 7400000, guid: 4c0cecd3dff13e5438131bab73ced0f8, type: 2}
+  - {fileID: 7400000, guid: 4a23194cc93d5c74db777a9e1f92c9e3, type: 2}

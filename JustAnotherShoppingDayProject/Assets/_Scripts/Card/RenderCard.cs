@@ -7,12 +7,11 @@ public class RenderCard : MonoBehaviour{
     public Items items_;
     public GameObject Window_1;
     public GameObject Window_2;
-    public GameObject Window_3;
-    private int windowNow = 0;
+    private int windowNow = 1;
 
     public Text Name;
     public Text Price;
-    public Sprite Icon;
+    public Image Icon;
     
     private void Start() {
         UpdateText();
@@ -25,9 +24,9 @@ public class RenderCard : MonoBehaviour{
 
     private void UpdateText() {
         var item = items_.itemTypes[windowNow].items[Card.Skins[windowNow]];
-        Name.text = item.name;
+        Name.text = item.ItemName;
         Price.text = item.Price.ToString() + "$";
-        Icon = item.Icon;
+        Icon.sprite = item.Icon;
     }
 
     public void Close(){
@@ -37,20 +36,13 @@ public class RenderCard : MonoBehaviour{
 
     public void ChangeWindow(int i){
         windowNow += i;
-        if(windowNow == 0){
+        if(windowNow == 1){
             Window_1.SetActive(true);
             Window_2.SetActive(false);
-            Window_3.SetActive(false);
         }
-        if(windowNow == 1){
+        if(windowNow == 2){
             Window_1.SetActive(false);
             Window_2.SetActive(true);
-            Window_3.SetActive(false);
-        }
-        if (windowNow == 2){
-            Window_1.SetActive(false);
-            Window_2.SetActive(false);
-            Window_3.SetActive(true);
         }
     }
 }

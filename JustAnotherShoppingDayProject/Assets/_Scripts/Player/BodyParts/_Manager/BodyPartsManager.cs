@@ -8,19 +8,18 @@ public class BodyPartsManager : MonoBehaviour{
     protected Animator animator;
     protected AnimatorOverrideController animatorOverrideController;
 
-    protected int ItemIndex;
-
     protected AnimationClipOverrides clipOverrides;
     public void Start()
     {
         animator = GetComponent<Animator>();
-        ItemIndex = 0;
 
         animatorOverrideController = new AnimatorOverrideController(animator.runtimeAnimatorController);
         animator.runtimeAnimatorController = animatorOverrideController;
 
         clipOverrides = new AnimationClipOverrides(animatorOverrideController.overridesCount);
-        animatorOverrideController.GetOverrides(clipOverrides);   
+        animatorOverrideController.GetOverrides(clipOverrides);
+
+        OverrideAnimations();
     }
 
     public void OverrideAnimations(){

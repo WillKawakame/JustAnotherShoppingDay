@@ -15,5 +15,9 @@ MonoBehaviour:
   ItemName: BlueDinoSnapback
   Price: 35
   Icon: {fileID: 21300000, guid: 3f2714dcf3bca2240b6dfc084ba1dbdb, type: 2}
-  isAvaliable: 0
-  Animations: []
+  isAvaliable: 1
+  Animations:
+  - {fileID: 7400000, guid: 4c14d207f45ad454aaf0a91aa9b01230, type: 2}
+  - {fileID: 7400000, guid: d5303c0fac154954d9851675c25fe0b9, type: 2}
+  - {fileID: 7400000, guid: 4f4878a2c71d8fa48bf653a023b0f5e3, type: 2}
+  - {fileID: 7400000, guid: 00d497a7069d7c74b9c85c9f9d04b454, type: 2}

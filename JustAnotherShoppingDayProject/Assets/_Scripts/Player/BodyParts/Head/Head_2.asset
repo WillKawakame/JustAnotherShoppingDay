@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ItemName: OrangeLadybug
   Price: 27
-  Icon: {fileID: 104381749, guid: 9385033d78cd29f43860af769ed07695, type: 3}
+  Icon: {fileID: -1902686457, guid: 6d14262261fa97e40a66df894d1a6553, type: 3}
   isAvaliable: 0
   Animations:
   - {fileID: 7400000, guid: 4bb34d334b6960240bf916f8adea8d21, type: 2}
